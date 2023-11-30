@@ -1,2 +1,2 @@
 # ConfigFiles
-Repository to keep all my config files for multiples purpose
+*Repository to keep all my config files for multiples purpose.*
